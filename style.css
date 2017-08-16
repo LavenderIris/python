@@ -47,7 +47,7 @@
 
 
 #content_top_nav{
-    width: 1013px;
+    width: 1049px;
     height: 57px;
     display: inline-block;
     background-color: #3776ab;
@@ -148,6 +148,7 @@ ptop{
 
 .white{
     color: white;
+    font-family: sans-serif;
 }
 
 .footer-title{
